@@ -1,0 +1,84 @@
+/* General */
+
+body {
+    background: #333;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(15, 209, 15);
+    font-size: 3rem;
+    margin: 7%;
+    font-family: serif;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 1.2rem;
+}
+
+/* Deal button */
+
+#deal {
+    display: block;
+    height: 3rem;
+    width: 10%;
+    font-size: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    
+}
+
+/* Cards container */
+
+#cards-container {
+    display: none;
+}
+
+/* Dealer's Cards */
+
+
+/* Your Cards */
+
+.inner-cards {
+    margin-left: 40%;
+    width: 35%;
+}
+
+/* Hit and Stay Buttons */
+
+.hit-and-stay-buttons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7%;
+    width: 35%;
+}
+
+.hit-and-stay {
+    display: none;
+    margin: 3%;
+    padding: 1% 7%;
+}
+
+/* Play again button */
+
+#play-again {
+    display: none;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1% 7%;
+}
+
+/* Win or lose */
+
+#win-or-lose {
+    margin-top: 1%;
+}
